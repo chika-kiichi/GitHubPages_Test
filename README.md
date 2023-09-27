@@ -1,3 +1,0 @@
-# Introduction
-
-なのー、めぇ。
