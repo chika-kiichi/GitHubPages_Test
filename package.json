@@ -1,0 +1,22 @@
+{
+  "name": "mf96_moderninfra",
+  "version": "1.0.0",
+  "description": "なのー、めぇ。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chika-kiichi/GitHubPages_Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chika-kiichi/GitHubPages_Test/issues"
+  },
+  "homepage": "https://github.com/chika-kiichi/GitHubPages_Test#readme",
+  "devDependencies": {
+    "honkit": "^5.1.1"
+  }
+}
